@@ -1,7 +1,7 @@
 ![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">A passionate frontend developer from India</h3><hr>
-<img align ="right"src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="500">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubh99992&label=Profile%20views&color=0e75b6&style=flat" alt="shubh99992" /> </p>
 
