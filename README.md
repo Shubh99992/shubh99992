@@ -41,3 +41,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shubh99992&repo=Music-player&theme=nightowl)](https://github.com/Shubh99992Music-player)
 
 ![github-user-contribution](https://github.com/Shubh99992/shubh99992/assets/105529358/834e04a9-a20a-4cfe-92e3-200b3ec9d670)
+<h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
+</center>
+
+<p align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"></p>
