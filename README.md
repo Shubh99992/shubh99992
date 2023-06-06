@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Flutter and React**
 
-- 👨‍💻 All of my projects are available at [https://shubhthecoder.netlify.app/](https://shubhthecoder.netlify.app/)
+- 👨‍💻 My Portfolio Website available at [https://shubhthecoder.netlify.app/](https://shubhthecoder.netlify.app/)
 
 - 💬 Ask me about **Frontend**
 
