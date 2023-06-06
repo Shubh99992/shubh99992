@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">A passionate Fullstack & App developer from India</h3>
 <img src="https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif">
-<img src="https://github.com/Shubh99992/shubham99992/assets/105529358/711a6a15-6d00-4e4c-94af-cffc022c93f9" width="1010">
+<img src="https://github.com/Shubh99992/shubh99992/blob/main/lofo.png" width="1010">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"> 
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=shubh99992&column=8&theme=algolia&show_icon=true"/>
