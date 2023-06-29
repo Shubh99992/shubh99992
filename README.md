@@ -1,12 +1,11 @@
+<p align="center"><img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  </p>
+<h1 align="center">Hi 👋, I'm Shubham</h1>
 <p align="center">
   <a>
    <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/left.png">
 <!--    <img align="center" width="200"src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"/> -->
    <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png">
 </p>
-<p align="center"><img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  </p>
-
-<h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">A passionate Fullstack & App developer from India</h3>
 <img src="https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif">
 <img src="https://github.com/Shubh99992/shubh99992/blob/main/lofo.png" width="1010">
@@ -86,6 +85,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubh99992/shubh99992/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shubh99992/shubh99992/output/github-contribution-grid-snake.svg">
 </picture>
+
 <!-- footer comment -->
 <h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
 </center>
