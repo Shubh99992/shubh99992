@@ -1,5 +1,8 @@
-<p align="center"><img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  </p>
-<h1 align="center">Hi 👋, I'm Shubham</h1>
+<p align="center"><img width="180" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  </p>
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Hi+👋, +I'm+Shubham;He/him;Computer+Science+Student;Indian+Web+&+Android+Developer;" alt="Computer Science Student, Indian Web + Android developer"></a>
+</div>
+<!-- <h1 align="center">Hi 👋, I'm Shubham</h1> -->
 <!-- <p align="center">
   <a>
    <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/left.png">
@@ -7,6 +10,8 @@
    <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png">
 </p> -->
 <h3 align="center">A passionate Fullstack & App developer from India</h3>
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Shubh99992/shubh99992/blob/main/assets/header.png"></div>
+
 <img src="https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif">
 <img src="https://github.com/Shubh99992/shubh99992/blob/main/lofo.png" width="1010">
 
@@ -85,7 +90,12 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubh99992/shubh99992/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shubh99992/shubh99992/output/github-contribution-grid-snake.svg">
 </picture>
-
+<!-- moving text -->
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
+    </a>
+</div>
 <!-- footer comment -->
 <h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
 </center>
