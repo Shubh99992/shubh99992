@@ -77,8 +77,7 @@
    <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png">
 </p>
 
-![Readme Card](https://github-readme-stats.vercel.app/api?username=shubh99992&theme=nightowl&rank_icon=github)
-![Readme Card](https://github-readme-streak-stats.herokuapp.com/?user=shubh99992&theme=nightowl&show_icons=true)
+![Readme Card](https://github-readme-stats.vercel.app/api?username=shubh99992&theme=nightowl&rank_icon=github) ![Readme Card](https://github-readme-streak-stats.herokuapp.com/?user=shubh99992&theme=nightowl&show_icons=true)
       
 <!--<p align="center">
      <img align="center" src="https://github-readme-stats.vercel.app/api?username=shubh99992&theme=nightowl&rank_icon=github"/>
