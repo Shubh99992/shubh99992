@@ -1,4 +1,10 @@
-<p align="center"><img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  </p>
+<p align="center">
+  <a>
+   <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/left.png">
+   <img align="center" width="200"src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"/>
+   <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png">
+</p>
+<!-- <p align="center"><img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  </p> -->
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">A passionate Fullstack & App developer from India</h3>
 <img src="https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif">
