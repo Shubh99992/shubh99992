@@ -1,14 +1,9 @@
 <p align="center"><img width="180" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  </p>
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Hi+👋, +I'm+Shubham;He/him;Computer+Science+Student;Indian+Web+&+Android+Developer;" alt="Computer Science Student, Indian Web + Android developer"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Hi+👋, +I'm+Shubham;He/him;Computer+Science+Student;Web+%2B+Android+Developer" alt="Computer Science Student, Indian Web + Android developer"></a>
 </div>
 <!-- <h1 align="center">Hi 👋, I'm Shubham</h1> -->
-<!-- <p align="center">
-  <a>
-   <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/left.png">
-<!--    <img align="center" width="200"src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"/> 
-   <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png">
-</p> -->
+<!--    <img align="center" width="200"src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"/> --> 
 <h3 align="center">A passionate Fullstack & App developer from India</h3>
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Shubh99992/shubh99992/blob/main/assets/header.png"></div>
 
@@ -68,21 +63,31 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </p>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh99992&layout=compact&theme=nightowl)](https://github.com/shubh99992/github-readme-stats)
-
-![Shubh99992's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubh99992&theme=nightowl&show_icons=true) 
-
-![Shubh99992's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=shubh99992&theme=nightowl&show_icons=true)
-
+<!--<p align="center">
+  <a>
+   <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/left.png">
+      
+   <!--    <img align="center" width="200"src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"/> 
+   <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png">
+</p> -->
+<p align="center">
+  <a>
+   <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/left.png">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh99992&layout=compact&theme=nightowl"/>
+   <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png">
+</p>
+<p align="center">
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=shubh99992&theme=nightowl&rank_icon=github"/>
+     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh99992&theme=nightowl&show_icons=true"/>
+</p>
+      
 ## Check my recent repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shubh99992&repo=Planets&theme=nightowl)](https://github.com/Shubh99992/git-productive)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shubh99992&repo=To-do-app&theme=nightowl)](https://github.com/Shubh99992/To-do-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shubh99992&repo=sose-website&theme=nightowl)](https://github.com/Shubh99992/sose-website)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shubh99992&repo=Heart&theme=nightowl)](https://github.com/Shubh99992/Heart)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shubh99992&repo=Restaurent-website&theme=nightowl)](https://github.com/Shubh99992/Restaurent-website)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shubh99992&repo=Music-player&theme=nightowl)](https://github.com/Shubh99992Music-player)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shubh99992\&repo=Planets&theme=nightowl)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shubh99992\&repo=To-do-app&theme=nightowl)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shubh99992\&repo=sose-website&theme=nightowl)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shubh99992\&repo=Heart&theme=nightowl)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shubh99992\&repo=Restaurent-website&theme=nightowl)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shubh99992\&repo=Music-player&theme=nightowl)
 
 <!-- snake  -->
 <picture>
@@ -93,7 +98,7 @@
 <!-- moving text -->
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
+        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit+!" >
     </a>
 </div>
 <!-- footer comment -->
