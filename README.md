@@ -74,7 +74,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shubh99992&repo=Music-player&theme=nightowl)](https://github.com/Shubh99992Music-player)
 
 <!-- snake  -->
-![github-user-contribution](https://github.com/Shubh99992/shubh99992/assets/105529358/fef80f00-cf57-41ae-9f8b-7bf2ec7de451)
+![snake gif](https://github.com/shubh99992/shubh99992/blob/output/snake.svg)
 <!-- footer comment -->
 <h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
 </center>
