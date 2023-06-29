@@ -81,11 +81,20 @@
 ![Readme Card](https://github-readme-streak-stats.herokuapp.com/?user=shubh99992&theme=nightowl&show_icons=true)-->
       
 <p align="center">
+    <a>
+     <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/left.png">
      <img align="center" src="https://github-readme-stats.vercel.app/api?username=shubh99992&theme=nightowl&rank_icon=github"/>
-     <img align="center" width="500px"src="https://github-readme-streak-stats.herokuapp.com/?user=shubh99992&theme=nightowl&show_icons=true"/>
+     <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png">
 </p>
-      
+<p align="center">
+    <a>
+    <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/left.png">
+    <img align="center" width="500px"src="https://github-readme-streak-stats.herokuapp.com/?user=shubh99992&theme=nightowl&show_icons=true"/>
+    <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png">
+</p>
+        
 ## Check my recent repositories
+        
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shubh99992\&repo=Planets&theme=nightowl)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shubh99992\&repo=To-do-app&theme=nightowl)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shubh99992\&repo=sose-website&theme=nightowl)
