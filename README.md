@@ -74,7 +74,11 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shubh99992&repo=Music-player&theme=nightowl)](https://github.com/Shubh99992Music-player)
 
 <!-- snake  -->
-![snake gif](https://github.com/shubh99992/shubh99992/blob/output/snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubh99992/shubh99992/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubh99992/shubh99992/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shubh99992/shubh99992/output/github-contribution-grid-snake.svg">
+</picture>
 <!-- footer comment -->
 <h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
 </center>
