@@ -72,9 +72,9 @@
 </p> -->
 <p align="center">
   <a>
-   <img height="30%" width="30%"  src="https://github.com/Shubh99992/shubh99992/blob/main/assets/left.png">
+ <!--  <img height="30%" width="30%"  src="https://github.com/Shubh99992/shubh99992/blob/main/assets/left.png">-->
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh99992&layout=compact&theme=nightowl"/>
-   <img height="30%" width="30%" src="https://github.com/Shubh99992/shubh99992/blob/main/assets/right.png">
+ <!--  <img height="30%" width="30%" src="https://github.com/Shubh99992/shubh99992/blob/main/assets/right.png">-->
 </p>
 <p align="center">
   <a>
