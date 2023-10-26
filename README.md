@@ -10,9 +10,11 @@
 <img src="https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif">
 <img src="https://github.com/Shubh99992/shubh99992/blob/main/lofo.png" width="1010">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"> 
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=shubh99992&column=8&theme=algolia&show_icon=true"/>
+
+<a  href="https://github.com/ryo-ma/github-profile-trophy"> 
+  <img width=900 src="https://github-profile-trophy.vercel.app/?username=shubh99992&column=9&theme=algolia&show_icon=true"/>
 </a>
+
 
 - 🔭 I’m currently working on : **Flutter**
 
@@ -37,7 +39,46 @@
 <a href="https://medium.com/@shubh99992" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shubh99992" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+ 
+
+## Languages
+<p align="center">
+   <img src="https://www.svgrepo.com/show/349402/html5.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://www.svgrepo.com/show/349330/css3.svg"  height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://www.svgrepo.com/show/349419/javascript.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://www.svgrepo.com/show/374016/python.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://www.svgrepo.com/show/303480/c-logo.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+## Frameworks, Libraries & Databases
+<p align="center">
+   <img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://www.svgrepo.com/show/355190/reactjs.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://www.svgrepo.com/show/349502/sass.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://github.com/Shubh99992/shubh99992/assets/105529358/30c858b9-0d50-4d5f-8d6a-e332dee4e3cf" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  
+</p>
+
+## Tools & Tech
+<p align="center">
+   <img src="https://www.svgrepo.com/show/373623/git.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://www.svgrepo.com/show/312259/github.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://www.svgrepo.com/show/452202/figma.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
+## 
+
+<!--<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
@@ -65,6 +106,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </p>
+
+-->
 <!--<p align="center">
   <a>
    <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/left.png">
@@ -83,10 +126,12 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=shubh99992&theme=nightowl&rank_icon=github"/>  
  </p> 
  <p align="center">
-<!--  <a>
+ <a>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh99992&theme=nightowl&show_icons=true"/>   
  </p>
-![Readme Card](https://github-readme-streak-stats.herokuapp.com/?user=shubh99992&theme=nightowl&show_icons=true)
+
+     
+<!-- ![Readme Card](https://github-readme-streak-stats.herokuapp.com/?user=shubh99992&theme=nightowl&show_icons=true)
         ![Readme Card](https://github-readme-streak-stats.herokuapp.com/?user=shubh99992&theme=nightowl&show_icons=true)-->
 
 
