@@ -83,13 +83,11 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=shubh99992&theme=nightowl&rank_icon=github"/>  
  </p> 
  <p align="center">
-  <a>
+<!--  <a>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh99992&theme=nightowl&show_icons=true"/>   
  </p>
-      
-<!--![Readme Card](https://github-readme-streak-stats.herokuapp.com/?user=shubh99992&theme=nightowl&show_icons=true)
-        
-![Readme Card](https://github-readme-streak-stats.herokuapp.com/?user=shubh99992&theme=nightowl&show_icons=true)-->
+![Readme Card](https://github-readme-streak-stats.herokuapp.com/?user=shubh99992&theme=nightowl&show_icons=true)
+        ![Readme Card](https://github-readme-streak-stats.herokuapp.com/?user=shubh99992&theme=nightowl&show_icons=true)-->
 
 
         
