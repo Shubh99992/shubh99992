@@ -126,8 +126,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=shubh99992&theme=nightowl&rank_icon=github"/>  
  </p> 
  <p align="center">
- <a>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh99992&theme=nightowl&show_icons=true"/>   
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Shubh99992&theme=nightowl&date_format=j%20M%5B%20Y%5D&card_width=455" alt="GitHub Streak" /></a>
  </p>
 
      
