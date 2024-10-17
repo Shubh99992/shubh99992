@@ -16,9 +16,9 @@
 </a>
 
 
-- 🔭 I’m currently working on : **Flutter**
+- 🔭 I’m currently working on : **Personal Projects**
 
-- 🌱 I’m currently learning : **Flutter and React**
+- 🌱 I’m currently learning : **AI**
 
 - 👨‍💻 My Portfolio Website available at : [https://shubh99992.netlify.app//](https://shubh99992.netlify.app/)
 
@@ -136,14 +136,14 @@
 
         
 ## Check my recent repositories
-        
+<!--        
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shubh99992\&repo=Planets&theme=nightowl)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shubh99992\&repo=To-do-app&theme=nightowl)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shubh99992\&repo=sose-website&theme=nightowl)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shubh99992\&repo=Heart&theme=nightowl)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shubh99992\&repo=Restaurent-website&theme=nightowl)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shubh99992\&repo=Music-player&theme=nightowl)
-
+-->
 <!-- snake  -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubh99992/shubh99992/output/github-contribution-grid-snake-dark.svg">
