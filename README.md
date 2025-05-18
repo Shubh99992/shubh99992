@@ -1,9 +1,9 @@
 <p align="center"><img width="180" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  </p>
-<div align="center">
+<!-- <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Hi+👋, +I'm+Shubham;He/him;Computer+Science+Student;Web+%2B+Android+Developer" alt="Computer Science Student, Indian Web + Android developer"></a>
-</div>
-<!-- <h1 align="center">Hi 👋, I'm Shubham</h1> -->
-<!--    <img align="center" width="200"src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"/> --> 
+</div> -->
+<h1 align="center">Hi 👋, I'm Shubham</h1>
+<!--    <img align="center" width="200"src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"/>  -->
 <h3 align="center">A passionate Fullstack & App developer from India</h3>
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Shubh99992/shubh99992/blob/main/assets/header.png"></div>
 
