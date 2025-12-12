@@ -1,22 +1,28 @@
-<p align="center"><img width="180" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  </p>
+<p align="center">
+ 
+  <img height="30%" width="30%"  src="https://github.com/Shubh99992/shubh99992/blob/main/assets/left.png">
+   <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh99992&layout=compact&theme=nightowl"/> -->
+<img width="200" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
+  <img height="32%" width="30%" src="https://github.com/Shubh99992/shubh99992/blob/main/assets/right.png">
+</p>
 <!-- <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Hi+👋, +I'm+Shubham;He/him;Computer+Science+Student;Web+%2B+Android+Developer" alt="Computer Science Student, Indian Web + Android developer"></a>
 </div> -->
+
 <h1 align="center">Hi 👋, I'm Shubham</h1>
-<!--    <img align="center" width="200"src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"/>  -->
 <h3 align="center">A passionate Fullstack & App developer from India</h3>
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Shubh99992/shubh99992/blob/main/assets/header.png"></div>
 
 <img src="https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif">
+
+ <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <img src="https://github.com/Shubh99992/shubh99992/blob/main/lofo.png" width="1010">
 
 
-<a  href="https://github.com/ryo-ma/github-profile-trophy"> 
-  <img width=900 src="https://github-profile-trophy.vercel.app/?username=shubh99992&column=9&theme=algolia&show_icon=true"/>
-</a>
 
 
-- 🔭 I’m currently working on : **Personal Projects**
+
+- 🔭 I’m currently working As : **Front-End Developer Intern**
 
 - 🌱 I’m currently learning : **AI**
 
@@ -24,19 +30,21 @@
 
 - 🎇 All of my projects are available at [https://github.com/Shubh99992/](https://github.com/Shubh99992/)
 
-- 💬 Ask me about : **Frontend**
 
-- 📫 How to reach me : **coderblade7@gmail.com**
+- 📫 How to reach me : [Linkedin](https://www.linkedin.com/in/shubhampoddar1/) , [Mail](mailto:shubhampoddar.012@gmail.com)
 
-- 💻 **Goals :** Learn more technological stacks and improve my overall skills
+- 💻 **Goals :** Learn more Tech stacks and improve my overall skills
 
 - ⚡ **Fun fact :** I love Animals!
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/22123669" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22123669" height="30" width="40" /></a>
+<!-- <h3 align="left">Connect with me:</h3> -->
+<!-- <p align="left">
+<a href="https://stackoverflow.com/users/22123669" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22123669" height="30" width="40" /></a> -->
 <!-- <a href="https://instagram.com/shubham_99992" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubham_99992" height="30" width="40" /></a>-->
-<a href="https://medium.com/@shubh99992" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shubh99992" height="30" width="40" /></a>
+<!-- <a href="https://medium.com/@shubh99992" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shubh99992" height="30" width="40" /></a> -->
+<!-- <a href="(https://www.linkedin.com/in/shubhampoddar1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg?color=0A66C2" alt="LinkedIn" height="30" width="40" />
+</a> -->
 </p>
 
  
@@ -75,8 +83,9 @@
 <!--    <img src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 </p>
 
+ <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 
+
 
 <!--<h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -115,16 +124,8 @@
    <!--    <img align="center" width="200"src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"/> 
    <img height="180" width="160" src="https://github.com/Nitesh-thapliyal/Nitesh-thapliyal/blob/main/right.png">
 </p> -->
-<p align="center">
-  <a>
- <!--  <img height="30%" width="30%"  src="https://github.com/Shubh99992/shubh99992/blob/main/assets/left.png">-->
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh99992&layout=compact&theme=nightowl"/>
- <!--  <img height="30%" width="30%" src="https://github.com/Shubh99992/shubh99992/blob/main/assets/right.png">-->
-</p>
-<p align="center">
-  <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shubh99992&theme=nightowl&rank_icon=github"/>  
- </p> 
+
+
  <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Shubh99992&theme=nightowl&date_format=j%20M%5B%20Y%5D&card_width=455" alt="GitHub Streak" /></a>
  </p>
@@ -135,7 +136,7 @@
 
 
         
-## Check my recent repositories
+<!-- ## Check my recent repositories -->
 <!--        
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shubh99992\&repo=Planets&theme=nightowl)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shubh99992\&repo=To-do-app&theme=nightowl)
@@ -144,7 +145,8 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shubh99992\&repo=Restaurent-website&theme=nightowl)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shubh99992\&repo=Music-player&theme=nightowl)
 -->
-<!-- snake  -->
+
+<!-- Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubh99992/shubh99992/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubh99992/shubh99992/output/github-contribution-grid-snake.svg">
