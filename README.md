@@ -55,17 +55,19 @@
    <img src="https://www.svgrepo.com/show/349330/css3.svg"  height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://www.svgrepo.com/show/349419/javascript.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://www.svgrepo.com/show/374016/python.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://www.svgrepo.com/show/303480/c-logo.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;
+    <!-- <img src="https://www.svgrepo.com/show/303480/c-logo.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+   <!-- <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp; -->
 </p>
 
 ## Frameworks, Libraries & Databases
 <p align="center">
    <img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://www.svgrepo.com/show/355190/reactjs.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://www.svgrepo.com/show/349502/sass.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <!-- <img src="https://www.svgrepo.com/show/349502/sass.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
    <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://github.com/user-attachments/assets/c8ffc283-aff8-420c-a033-2ba71a5ab3f4" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://github.com/user-attachments/assets/a1cbada3-21b8-4fb7-aea9-ce3396debd53" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <!-- <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
    <img src="https://github.com/Shubh99992/shubh99992/assets/105529358/30c858b9-0d50-4d5f-8d6a-e332dee4e3cf" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
   
