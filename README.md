@@ -8,26 +8,28 @@
 
 ## About Me
 
+AI Full Stack Developer from India focused on building scalable web applications, AI tools, and startup MVPs.
 
-> • **[Data Analyst]** - **Sodhi's Super Market**
-> 
-> • **[Purchase Executive]** - **Sodhi's Super Market**
-> 
-> • **[Front-end Developer Inter]** - **Pathixo Pvt Ltd**
-> 
-> • **[Python Developer Intern]** - **Learning Space**
+I enjoy building modern products using Python, FastAPI, React, Next.js, and AI APIs.
+
+Currently exploring:
+- AI Automations
+- AI Agents
+- SaaS Development
+- Backend Systems
+- Remote Startup Engineering
+
 
 - 📫 Reach me : [Linkedin](https://www.linkedin.com/in/shubhampoddar1/) , [Mail](mailto:shubhampoddar.012@gmail.com)
 
-- 💻 **Goals :** Learn more Tech stacks and improve my overall skills
-
+- 💻 Building AI-powered web apps, automations, and scalable backend systems.
 
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> -->
 
  ## 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nextjs,django,flask,fastapi,git,github,mongodb,firebase,linux" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nextjs,django,flask,fastapi,git,github,docker,postgresql,supabase,mongodb,firebase,linux" />
 </p>
 
 ## 📊 My GitHub Analytics
@@ -45,11 +47,12 @@
 
 
 
-## 🏅 GitHub Trophies
+<!-- ## 🏅 GitHub Trophies
 
  
 ![](https://github-trophies.vercel.app/?username=Shubh99992&theme=matrix&margin-w=10&row=1&column=8)
 ---
+-->
 
 
 <!-- ## 🔥 Featured Projects
@@ -70,12 +73,12 @@
 > ✅ Web Dev Bootcamp (Ongoing)  
 > ✅ Drone AI & Robotics (Upcoming - IIT Hyderabad) -->
 
-
+<!-- snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubh99992/shubh99992/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubh99992/shubh99992/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shubh99992/shubh99992/output/github-contribution-grid-snake.svg">
-</picture>
+</picture> -->
 
 <!-- ## 👨‍💻 Terminal Mode
 
